@@ -34,5 +34,5 @@ After it is completed, build off of it with other wartminded people to make it e
 
 ## & Explore!
 
-Search the repo's branches and easily see others warts. Find great warts and show your appreciation by starring or branching
+Search through the repo's forks and easily see others warts. Find great warts and show your appreciation by starring or branching
 off of them.
