@@ -1,4 +1,7 @@
 # 90 Minute Warts!!
+
+UPDATE: tldr; this will be something else tomorrow morning I think
+
 This is a repository for you to easily create and run your own presentation of a 90 minute wart. 90 minutes? Wart?
 
 A wart is a web artwork. 90 minutes is the time constraint with which you have available to complete them. 
